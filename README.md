@@ -58,12 +58,3 @@ Given a set of features about loan applicants, predict whether a loan will be ap
    - Classification Report
 6. **Select Best Model** based on accuracy
 
----
-
-## 📈 How to Run
-
-1. Clone the repo or download the files.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-
